@@ -1,0 +1,19 @@
+1.check the version :git --version
+2.set up some global config variables
+  git config --global user.name "   "
+  git config --global user.email "    "
+  git cofig --list
+3.git config --help : for help screen and to know about camand  
+4.mkdir: make a directory 
+5.cd :change directory 
+5. git init:to initialize git reporesetry in a file 
+6.git status: to check the status of the repository 
+7.git add .(git add info.txt):add the file you created to make a                        
+                              commit
+8.git commit -m "msg":commit those changes to the repository history                         
+                      with a sort msg
+9.git diff:view the difference in the file now and how it was at your   
+           last commit
+10.git remote add origin repor_link: connect local reporesetry to   
+                                     remote reporesetry
+11.git push origin master :to push the file in remort repositry  
